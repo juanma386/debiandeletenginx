@@ -23,7 +23,7 @@ echo 'ES: removiendo otros sistemas adyacentes de nginx
 EN:removing other adjacent nginx systems'
 sudo apt-get remove nginx-*
 echo 'ES:limpiando el sistema de adyacentes para nginx
-EN:cleaning the adjacent system for nginx'
+EN:cleaning the adjacent system f or nginx'
 sudo apt-get purge nginx-*
 clear;
 echo 'ES: listo tu sistema esta limpio del nginx
@@ -33,8 +33,8 @@ systemctl start apache2 y luego
 pon la contraseña root o famosamente
 llamada raiz
 EN:ready your system is clean of the nginx
-if you have installed debian I recommend you
+i f you have installed debian I recommend you
 pass the next command
-systemctl start apache2 and then
+s y s t e m c t l start apache2 and t hen
 enter the password root or famously
 root call'
